@@ -1,0 +1,82 @@
+.header-container {
+  background: #71ae9c;
+}
+.Title-container {
+  text-align: left;
+  font-size: 34pt;
+}
+
+.Title-color {
+  color: #2c3b58;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.Title-color:hover {
+  color: #e4e3e8;
+}
+
+.button-delete-color {
+  background: #de5d4a !important;
+}
+.button-style-pup {
+  margin-left: 30px;
+  background: #2c3b58 !important;
+  font-size: 20pt;
+}
+
+.button-stile-all {
+  background: #71ae9c;
+  color: #e4e3e8;
+  font-weight: bold;
+  vertical-align: middle;
+  user-select: none;
+  padding: 0.7rem 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+.button-stile-all:hover {
+  color: #71ae9c;
+  background: #e4e3e8;
+}
+.button-delete-color:hover {
+  background: #e4e3e8 !important;
+  color: #de5d4a !important;
+}
+.button-style-pup:hover {
+  background: #e4e3e8 !important;
+  color: #2c3b58;
+}
+
+body {
+  background: #d8dde1;
+}
+
+.card {
+  background: #e4e3e8;
+  border-width: 0;
+  box-shadow: 5px 4px 18px rgba(44, 59, 88, 0.37);
+}
+
+.input-style-my {
+  display: block;
+  width: 100%;
+  border: 1px solid #ced4da;
+  background-clip: padding-box;
+  line-height: 1.5;
+  padding: 0.7rem 1rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  border-radius: 0.25rem;
+}
+
+.font-style-my {
+  font-size: 15pt;
+  color: #2c3b58;
+
+  font-weight: bold;
+}
+
+.all-gtoup-my {
+  font-size: 10pt;
+}
